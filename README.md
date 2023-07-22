@@ -30,6 +30,9 @@ I'm currently a Software Engineer sr from Brazil, i have a Master of Business Ad
      <a href="https://kubernetes.io" target="_blank"> 
        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
      </a> 
+     <a href="https://www.typescriptlang.org" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> 
+     </a>      
      <a href="https://www.linux.org/" target="_blank"> 
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
      </a> 
@@ -44,7 +47,14 @@ I'm currently a Software Engineer sr from Brazil, i have a Master of Business Ad
       <a href="https://spring.io/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
       </a> 
-    </p>
+      <a href="https://aws.amazon.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="60" height="40"/> 
+      </a> 
+      <a href="https://jupyter.org/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="50" height="40"/> 
+      </a> 
+   </p>
+   
 </p>
 
 
@@ -64,4 +74,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![sadasd](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
