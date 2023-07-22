@@ -1,5 +1,9 @@
 ### Hi there 👋 My name is Alexsander (Alex)
 
+I'm currently a Software Engineer sr, i have a Master of Business Administration (MBA) in Solution Architecture, i have 6 years of experience in Performance Engineer and i have 18 years of experience in IT.
+
+
+### Langues and Tools
 
 
 <!--
@@ -16,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
