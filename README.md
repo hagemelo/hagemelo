@@ -53,6 +53,20 @@ I'm currently a Software Engineer sr from Brazil, i have a Master of Business Ad
       <a href="https://jupyter.org/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="50" height="40"/> 
       </a> 
+      <a href="https://www.terraform.io/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
+      </a>
+      <a href="https://maven.apache.org/" target="_blank"> 
+        <img src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg" alt="maven" width="50" height="40"/> 
+      </a>
+      <a href="https://jmeter.apache.org/" target="_blank"> 
+        <img src="https://jmeter.apache.org/images/jmeter.png" alt="jmeter" width="60" height="40"/> 
+      </a>
+      <a href="https://k6.io/" target="_blank"> 
+        <img src="https://repository-images.githubusercontent.com/54400687/29992200-7069-11ea-85c9-3824e56625b2" alt="K6" width="50" height="40"/> 
+      </a>
+      
+
    </p>
    
 </p>
