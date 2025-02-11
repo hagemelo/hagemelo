@@ -1,7 +1,10 @@
 ### Hi there 👋 My name is Alexsander (Alex)
 
-I'm currently a Software Engineer sr from Brazil, i have a Master of Business Administration (MBA) in Solution Architecture, i have 6 years of experience in Performance Engineer and i have 18 years of experience in IT.
+Currently, I am a Senior Software Engineer with solid experience in designing solution architectures. I actively contribute to my team, bringing an analytical perspective to both new implementations and problem-solving. I am also dedicated to continuously improving the performance of the applications under my responsibility. I value constructive exchanges with my teammates, prioritizing active listening and fostering a learning-driven environment through the giving and receiving of high-quality feedback.
 
+My key strengths include a clear understanding of business objectives, a proactive approach to meeting company needs, strong problem-solving skills, and the ability to identify opportunities. I stand out for delivering concise results with an ever-increasing standard of quality. I have a collaborative mindset and am always willing to support my colleagues, reinforcing my team spirit. Additionally, I lead initiatives focused on improving the team's daily operations and optimizing processes, demonstrating my commitment to excellence and collective success.
+
+I am looking to advance my career in a specialist or technical leadership role. At my current company, I have been dedicated to continuous improvement and experimenting with higher-responsibility functions, aiming to contribute even more strategically to organizational success.
 
 ### Langues and Tools
 <p>
